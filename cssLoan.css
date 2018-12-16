@@ -1,0 +1,210 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.homePage5 .homePage4{
+    color: red;
+    border: 1px solid #FF894C;
+    background-color: wheat;
+    width: 600px;
+    height: 600px;
+    text-align: center;
+}
+.homePage5{
+    float: right;
+    width: 60%;
+    padding-top: 100px;
+}
+.homePage3 ul{
+    list-style: none;
+    
+   
+}
+.homePage3 ul li:hover{
+    background-color: green;   
+   
+}
+.homePage3 .sub-arrow:after{
+    padding: 0;
+    margin: 0;
+    content: '\203A';
+    float: right;
+}
+.homePage3 ul ul{
+    display: none;
+}
+.homePage3 ul :hover ul{
+    display: block;
+}
+.homePage3 ul li a{
+    text-decoration: none;
+}
+.homePage3 ul li{
+    width: 100% auto;
+    padding: 10px 0 0 10px;
+    background-color:#FF894C;
+    border-bottom: 1px solid white;
+    line-height: 50px;
+    font-size: 25px;
+}
+.homePage2 span{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 15%;
+}
+body{
+    background-image: url("Images/Loan1.jpg");
+    background-size: cover;
+}
+.homePage2 img{
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+#homePage1 {
+    width: 100%;
+}
+#homePage1 .homePage2{
+    width: 25%;
+    background-color: #7F4E34;
+    height: 900px;
+    float: left;
+}
+.SignUpPage2{
+    text-align: center;
+}
+.SignUpPage2 a{
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+}
+.SignUpPage1{
+    background-color: #fefefebf;
+    height: 650px;
+    width: 500px;
+    margin: auto;
+}
+.SignUpPage1 form{
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 400px;
+    display: block;
+    padding: 0 40px;
+}
+.SignUpPage1 img{
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+}
+.SignUpPage1 input{
+    width: 400px;
+    height: 40px;
+}
+.SignUpPage3{
+    background-color: pink;
+    width: 400px;
+    height: 40px;
+}
+.SignUpPage3 a{
+   height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.SignUpPage1 button{
+    background-color: pink;
+    width: 400px;
+    height: 40px;
+}
+.LoginPage1 .LoginPage2 input{
+    width: 15px;
+    height: 15px;
+}
+.LoginPage1{
+    background-color: #fefefebf;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+.LoginPage1 img{
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+}
+.LoginPage1 form{
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 0 40px;
+}
+.LoginPage1 input{
+    width: 400px;
+    height: 40px;
+}
+.LoginPage1 button{
+    background-color: pink;
+    width: 400px;
+    height: 40px;
+}
+.imran0{
+    margin-top: 100px;
+    /*color: #ef087c;*/
+    color: #FF0000;
+    text-align: center;
+    font-size: 60px;
+}
+.imran1{
+    color: #08adef;
+    text-align: center;
+    font-size: 120px;
+}
+.imran2{
+    text-align: center;
+}
+.imran2 a{
+    padding: 8px 15px;
+    margin: 5px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    text-decoration: none;
+}
+.imran2 a:hover{
+    background-color: #2875FF;
+}
+.imran3{
+    width: 200px;
+    height: 50px;
+    background-color: #FF0000;
+    color: white;
+    font-size: 30px;
+}
+.imran4{
+    width: 200px;
+    height: 50px;
+    background-color: #FF0000;
+     color: white;
+     font-size: 30px;
+}
